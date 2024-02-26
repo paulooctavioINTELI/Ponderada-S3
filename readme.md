@@ -1,22 +1,3 @@
-# Hash Table de Mercadorias
-
-Este projeto implementa uma Hash Table em C++ para gerenciar um catálogo de mercadorias. Cada mercadoria é identificada por um código único e possui um nome.
-
-## Funcionalidades
-
-- **Inserção:** Adiciona uma nova mercadoria à Hash Table.
-- **Busca:** Pesquisa por uma mercadoria utilizando seu código.
-- **Remoção:** Exclui uma mercadoria da Hash Table usando seu código.
-- **Impressão:** Exibe todas as mercadorias na Hash Table.
-
-## Como Compilar e Executar
-
-1. Salve o código em um arquivo chamado `HashTableMercadorias.cpp`.
-2. Abra um terminal e navegue até o diretório onde o arquivo está salvo.
-3. Compile o código usando um compilador C++, como `g++`:
-4. Execute o programa compilado:
-
-
 ## Casos de Teste
 
 ### Caso de Teste 1: Inserção de Mercadorias
